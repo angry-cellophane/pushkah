@@ -1,0 +1,2 @@
+# github.com/prometheus/prometheus v2.5.0+incompatible
+## explicit
